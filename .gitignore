@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Vite cache
+dist/
+.vite/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS folders
+__MACOSX/
+
+# Build output
+build/
+
+# Optional: sensitive DB files or runtime config
+*.local.*
+.env.local
+
